@@ -5,4 +5,4 @@ The page markup and layout uses HTML5 There is the jQuery selector.
 It has an active class. 
 It uses appendchild and innerhtml. 
 This landing page has a uniuq interactive navbar that uses active class sections.
-It uses getattributes and getbounding.
+It uses getattributes and intersection observer
